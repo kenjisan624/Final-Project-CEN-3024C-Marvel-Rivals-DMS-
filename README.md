@@ -15,7 +15,7 @@ It has incorporated a custom method which generate a PDF on ascending order of w
 - Java SDK
 - SQLite 
 
-# Instalation Guide:
+# Installation Guide:
 You can clone the repository or download the entire project;
 Run on command on the file: 
 java -jar MarvelRivalsDMS.jar
