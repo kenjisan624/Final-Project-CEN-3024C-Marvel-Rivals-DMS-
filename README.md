@@ -13,6 +13,8 @@ Allowing user to either use Logic interface or the all the functions equipped GU
 As previously mentioned it can add, delete, edit, and view hero records with a nice graphic interface. 
 It has incorporated a custom method which generate a PDF on ascending order of win rate of the heroes. 
 
+<img src="images/example.png" width="900">
+
 
 # Pre - Requisites:
 - IDE 
@@ -23,6 +25,10 @@ It has incorporated a custom method which generate a PDF on ascending order of w
 You can clone the repository or download the entire project;
 Run on command on the file: 
 java -jar MarvelRivalsDMS.jar
+
+
+
+<img src="images/icon.png" width="900">
 
 **For more information on specific development cycle, please visit:**
 
