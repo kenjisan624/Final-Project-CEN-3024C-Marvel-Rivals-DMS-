@@ -1,5 +1,7 @@
 # CEN-3024C-Marvel-Rivals-DMS-
 
+<img src="images/logo.png" width="500" >
+
 This is a DMS which stands for Data Management System in the style of the game Marvel Rivals hero base online team player game; this project has been developed for the
 Class taken at Valencia College || Software Development I. 
 
