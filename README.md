@@ -28,7 +28,7 @@ java -jar MarvelRivalsDMS.jar
 
 
 
-<img src="images/icon.png" width="900">
+<img src="images/icon.png" width="300">
 
 **For more information on specific development cycle, please visit:**
 
